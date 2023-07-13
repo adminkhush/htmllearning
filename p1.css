@@ -1,0 +1,148 @@
+.body{
+    font-size: 40px;
+    background-color:#faf6fa
+	;
+}
+
+.container{
+    padding-top: 40px;
+    font-size: 20px;
+}
+#head{
+    border-bottom: 2px black;
+}
+.p-2{
+    width: 350px;
+    height: 500px;
+    padding: 12px;
+    margin: 20px;
+    border: 3px #1a1919;
+
+}
+.pic{
+    width: 300px;
+    height: 300px;
+}
+#second{
+    width: 500px;
+    height: 500px;
+    padding: 12px;
+    margin: 155px;
+    border: 3px #1a1919;
+
+}
+    #flex {
+        display: flex;
+        
+      }
+      
+      #flex > div {
+        
+        margin: 10px;
+        margin-left: 150px;
+        padding: 10px;
+        font-size: 30px;
+        width: 500px;
+        height: 400px;
+      }
+      #row{
+          display: flex;
+        
+       
+      }
+      #row>div{
+          
+          
+        margin: 2px;
+        margin-left: 20px;
+        padding: 5px;
+        font-size: 15px;
+        width: 200px;
+        height: 300px;
+      }
+      footer {
+        margin-top: 10px;
+        text-align: center;
+        padding: 3px;
+        background-color: #e3e3e3;
+        color: white;
+      }
+      .list{
+        border-right: 1px dotted black;
+        list-style-type:none;
+        padding-right: 10px;
+       
+        
+      }
+      .home{
+        font-size: 20px;
+        text-align: center;
+        color: rgb(66, 66, 246);
+
+      }
+      #bottom{
+        display: flex;
+        
+      }
+      #bottom>div{
+       
+        margin: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+        padding: 10px;
+        font-size: 15px;
+        color: #1a1919;
+             }
+             .fa {
+                padding: 20px;
+                font-size: 30px;
+                width: 50px;
+                text-align: center;
+                text-decoration: none;
+                margin: 5px 2px;
+              }
+              .fa-facebook {
+                background: #3B5998;
+                color: white;
+                border-radius: 50%;
+              }
+              .fa-twitter {
+                background: #55ACEE;
+                color: white;
+                border-radius: 50%;
+             
+              }
+              
+              .fa-google {
+                background: #dd4b39;
+                color: white;
+                border-radius: 50%;
+             
+              }
+              
+              .fa-linkedin {
+                background: #007bb5;
+                color: white;
+                border-radius: 50%;
+             
+              }
+              
+              .fa-youtube {
+                background: #bb0000;
+                color: white;
+                border-radius: 50%;
+             
+              }
+              
+              .fa-instagram {
+                background: #125688;
+                color: white;
+                border-radius: 50%;
+             
+              }
+              
+                         
+      
+      
+      
+  
